@@ -1,3 +1,3 @@
 # git_practice
-Practice file no contebt.<br>
+Practice file no content.<br>
 Sulav dahal
